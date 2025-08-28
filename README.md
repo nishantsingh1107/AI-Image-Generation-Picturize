@@ -4,8 +4,6 @@ A modern full-stack web application that transforms text prompts into stunning A
 
 🌐 **Live Demo**: [https://picturize.vercel.app/](https://picturize.vercel.app/)
 
-![Picturize Banner](./client/src/assets/sample_img_1.png)
-
 ## 📋 Table of Contents
 
 - [Features](#features)
